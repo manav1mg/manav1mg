@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manav
 - 👀 I’m interested in Mobile Dev
-- 🌱 I’m currently learning Kotlin, Swift 5.5
+- 🌱 I’m currently learning Flutter, Dart, Kotlin and Swift 5.5
 - 💞️ I’m looking to collaborate on Open source Projects
 - 📫 How to reach me manav.prakash@1mg.com
 
